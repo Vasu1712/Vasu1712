@@ -1,5 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://imgur.com/zDN1tJ4" height="175px"/></a>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/pyCz86P" data-context="false" ><a href="//imgur.com/a/pyCz86P"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="#"><img width="100%" height="auto" src="https://imgur.com/zDN1tJ4" /></a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vasu</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
