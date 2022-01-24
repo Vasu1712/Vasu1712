@@ -1,4 +1,4 @@
-<a href="#"><img width="100vh" height="auto" src="https://github.com/Vasu1712/Vasu1712/blob/22797c86c0213f0f425bf224f8ceea59d6c09a52/avatar.svg" height="50px"/></a>
+<a href="#"><img src="https://github.com/Vasu1712/Vasu1712/blob/22797c86c0213f0f425bf224f8ceea59d6c09a52/avatar.svg" height="50px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vasu</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
