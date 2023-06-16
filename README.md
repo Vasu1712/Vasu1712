@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Go Host](link)**
+- 🔭 I’m currently working in **[Fanisko](link)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
