@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]((https://vasu1712.vercel.app/))**
+- 👨‍💻 All of my projects are available at **https://vasu1712.vercel.app/**
 
 - 📫 How to reach me **vasupal.17.12.2002@gmail.com**
 
