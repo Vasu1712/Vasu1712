@@ -39,7 +39,7 @@
     <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://immersive-web.github.io/webxr-samples/media/logo/webxr-logo.svg" alt="WebXR" width="48" height="48"/> </a> 
-    <a href="https://ar.snap.com/lens-studio" target="_blank"> <img src="https://images.ctfassets.net/o1znirz7lzo4/1yHQmrCksgfAkMUs1ZuohA/00f5ac3ff7f7eb57180104e7a2563f37/lens_studio_horizontal_logo.png"/> </a>
+    <a href="https://ar.snap.com/lens-studio" target="_blank"> <img src="https://images.ctfassets.net/o1znirz7lzo4/1yHQmrCksgfAkMUs1ZuohA/00f5ac3ff7f7eb57180104e7a2563f37/lens_studio_horizontal_logo.png" height="50px"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://react-spring.io/" target="_blank"> <img src="https://react-spring.io/spring-icon.png" height="50px"/> </a>
     <a href="https://mui.com/" target="_blank"> <img src="https://mui.com/static/logo.png" height="50px"/> </a>
