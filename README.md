@@ -38,7 +38,7 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
+    <a href="https://www.jenkins.io" target="_blank"> <img src="https://immersive-web.github.io/webxr-samples/media/logo/webxr-logo.svg" alt="WebXR" width="48" height="48"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://react-spring.io/" target="_blank"> <img src="https://react-spring.io/spring-icon.png" height="50px"/> </a>
