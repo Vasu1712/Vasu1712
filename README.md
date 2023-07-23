@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m an Open Source Contributor at XROS'23 currently working in **[Fanisko]([link](https://fanisko.com/))**
+- 🔭 I’m an Open Source Contributor at XROS'23 currently working in **[Fanisko]([https://fanisko.com/])**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
